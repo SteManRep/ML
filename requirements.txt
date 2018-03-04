@@ -1,0 +1,7 @@
+timeit
+imageio
+matplotlib.pyplot 
+numpy 
+os
+sys
+tarfile
